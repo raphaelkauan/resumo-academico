@@ -9,7 +9,7 @@ SUMÁRIO
 
 1.2 PDO (PHP DATA OBJECTS)............................................04-05
 
-2 ORIGEM DOS CÓDIGOS HTTP(HYPERTEXT TRANSFER PROTOCOL)...............................................................................05
+2. ORIGEM DOS CÓDIGOS HTTP(HYPERTEXT TRANSFER PROTOCOL)...............................................................................05
 
 2.1 ENTENDO OS CÓDIGOS DE STATUS HTTP……………05-06
 
